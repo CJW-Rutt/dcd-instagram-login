@@ -250,7 +250,7 @@ input {
 
 /* IPHONE CSS: WIDTH 820PX OR LESS */
 
-@media only screen and (max-width: 820px) {
+@media only screen and (max-width: 414px) {
     body {
         background-color: var(--white);
         justify-content: flex-start;
